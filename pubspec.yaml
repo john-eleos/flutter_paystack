@@ -7,8 +7,8 @@ homepage: https://github.com/wilburt/flutter_paystack
 dependencies:
   flutter:
     sdk: flutter
-  http: ^0.12.2
-  intl: ^0.16.1
+  http: ^0.13.0
+  intl: ^0.17.0
   meta: ^1.1.8
   async: ^2.4.2
 
